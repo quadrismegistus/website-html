@@ -100,7 +100,10 @@ Occasionally I post graphs and brief summary results to Twitter of my DH work as
 
 
 ## Other
+
 ### Tools
+
+Here are links to various code repositories.
 ​    
 * [Prosodic](https://github.com/quadrismegistus/prosodic): A metrical-phonological parser, written in Python. For English and Finnish, with flexible language support.
 * [Poesy](https://github.com/quadrismegistus/poesy): Tools for poetic analysis (stanzaic, metrical, and rhyme forms), written in Python.
