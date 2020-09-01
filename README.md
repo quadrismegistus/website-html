@@ -39,7 +39,7 @@ I am directing a new collaborative digital humanities project based working at t
 ### Antimetricality
 I am working with Arto Anttila and Paul Kiparsky, metrical phonologists at Stanford, to design tools to evaluate the 'antimetricality' of a text: the degree to which its stress patterns depart from any known metrical pattern. Such measurements of metrical 'tension' or 'ambiguity' have a history: prose most distances itself rhythmically from verse at the height of the eighteenth century. We have a pre-print of a paper available [here](https://web.stanford.edu/~kiparsky/Papers/Antimetricality-Draft-2018-04-20.pdf). 
 
-* ["The Rise and Fall of Antimetricality"](https://web.stanford.edu/~kiparsky/Papers/Antimetricality-Draft-2018-04-20.pdf)
+* 2018-04-20: ["The Rise and Fall of Antimetricality"](https://web.stanford.edu/~kiparsky/Papers/Antimetricality-Draft-2018-04-20.pdf)
 * Code: [Prosodic](http://github.com/quadrismegistus/prosodic) ([web demo](http://prosodic.stanford.edu))
 
 
@@ -118,4 +118,4 @@ Occasionally I post graphs and brief summary results to Twitter of my DH work as
 
 ### CV
 
-* [Download as PDF](cv.pdf)
+* See [here](cv)
