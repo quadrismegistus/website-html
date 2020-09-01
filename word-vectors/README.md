@@ -8,10 +8,10 @@ This page is meant as a set of links and resources related to my work using word
 
 ### Posts
 
-*   [Episode 1: Concepts](http://ryanheuser.org/word-vectors-1) (14 Apr 2016)
-*   [Episode 2: Methods](http://ryanheuser.org/word-vectors-2) (1 Jun 2016)
-*   [Episode 3: From Fields to Vectors](http://ryanheuser.org/assets/storyscroll/word-vectors-3) (10 Sep 2016)
-*   [Episode 4: Semantic Networks](http://ryanheuser.org/assets/storyscroll/word-vectors-4) (25 Sep 2016)
+*   [Episode 1: Concepts](/word-vectors-1) (14 Apr 2016)
+*   [Episode 2: Methods](/word-vectors-2) (1 Jun 2016)
+*   [Episode 3: From Fields to Vectors](/word-vectors-3) (10 Sep 2016)
+*   [Episode 4: Semantic Networks](/word-vectors-4) (25 Sep 2016)
 
 ### Video
 
@@ -19,17 +19,14 @@ This page is meant as a set of links and resources related to my work using word
 
 ### Appendices
 
-*   "[Would Word2Vec get into grad school? Evaluating Word2Vec against the Miller Analogies Test](http://ryanheuser.org/word2vec-vs-the-mat/)"
+*   "[Would Word2Vec get into grad school? Evaluating Word2Vec against the Miller Analogies Test](/word2vec-vs-the-mat)"
 
 ### Models
 
-*   [Word2Vec Model of ECCO, "Literature and Language," 1700-99](http://ryanheuser.org/data/word2vec.ECCO.skipgram_n=10.model.txt.gz) (1.9 billion words; skip-gram size of 10 words)
 *   [Word2Vec Models for Twenty-year Periods of 18C (ECCO, "Literature and Language," 1700-99)](https://archive.org/details/word-vectors-18c-word2vec-models-across-20-year-periods) (150 million words each; skip-gram size of 10 words)
-*   [Word2Vec Model of ECCO-TCP, 1700-99](http://ryanheuser.org/data/word2vec.ECCO-TCP.skipgram_n=10.txt.zip) (80 million words; skip-gram size of 10 words)
-*   [Word2Vec Model of ECCO-TCP, 1700-99](http://ryanheuser.org/data/word2vec.ECCO-TCP.txt.zip) (80 million words; skip-gram size of 5 words)
 
 ### Code
 
-*   [Code to evaluate a word2vec model against the Miller Analogies Test](http://ryanheuser.org/word2vec-vs-the-mat#code)
+*   [Code to evaluate a word2vec model against the Miller Analogies Test](/word2vec-vs-the-mat#code)
 *   [Code to produce a semantic network from a gensim word2vec model](https://gist.github.com/quadrismegistus/eb2360026afce4ef4e57872146369091)
 *   [Code for aligning two gensim word2vec models using Procrustes matrix alignment](https://gist.github.com/quadrismegistus/09a93e219a6ffc4f216fb85235535faf)
