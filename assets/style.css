@@ -102,14 +102,14 @@
 html {
   font-family: "Baskerville", "Georgia", "serif";
   /* // "source-sans-pro", "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  font-size: 12px;
-  line-height: 1;
+  font-size: 16px;
+  line-height: 1.25;
 }
 
 body {
   background-color: #fff;
   color: var(--text-color);
-  margin: 10em;
+  margin: 5em;
 }
 
 
