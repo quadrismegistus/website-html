@@ -10,7 +10,7 @@ I am [Junior Research Fellow in 'Immateriality' at King's College, Cambridge](ht
 
 My first book project, *Abstraction: A Literary History*, traces a slow-moving rise and fall in abstract language across centuries of literary history. Mixing close and distant reading, the book uncovers how these changes in literary semantics mediate changes in social organization. I focus on three literary forms of abstract language: ‘abstract style’, in the syntactic symmetries and semantic formulae of the periodical essay; ‘abstract persons’, in the personified abstractions of the mid-century ode; and ‘abstract realism’, in the “tell, don’t show” narration of the early realist novel. Through this history and framework, the book also aims to recuperate abstraction as both a method and an object of literary study.
 
-*   2020-02-18: [‘Abstract Realism’](talks/kingscollege2020) (visual summary of the chapter on fiction)
+*   2020-02-18: ["Abstract Realism"](talks/kingscollege2020) (visual summary of the chapter on fiction)
 
 
 ### *Computational capitalism*
