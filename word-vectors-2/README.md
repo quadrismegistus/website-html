@@ -15,7 +15,7 @@ In order to understand what's new about the kind of vector representation in a w
 
 A classic form of data representation in DH is a document-term matrix.[0. Although document-term matrix might be the most paradigmatic case, a term-term matrix-based on counts of term collocation in a "window" of N words long-is also standard, and produces a similar kind of word vector.]
 
-<center><img width="400" src="%base_url%/assets/293-2402-1-PB.png" /></center>
+<center><img width="400" src="/assets/293-2402-1-PB.png" /></center>
 _<small>Figure 1: Example of a document-term matrix</small>_
 
 As the figure shows, a document-term matrix represents a given term as a _word vector_: a vector of its number of occurrences in each document:
@@ -28,7 +28,7 @@ Here, "vector" has the meaning it does in the programming world: as an _array_, 
 
 But many DH studies have also taught us to imagine each "column" of these numbers as representing a unique dimension in space. Each term then occupies a different spatial position in an N-dimensional space, where N is the number of documents. We can then find similar terms to a given Term(X) by finding words _close to it_ spatially. Spatial proximity between any two points A and B can be measured in different ways:
 
-<center><img width="300" src="%base_url%/assets/similarity-graphic.png" /></center>
+<center><img width="300" src="/assets/similarity-graphic.png" /></center>
 _<small>Figure 2. Euclidean distance (d) vs. Cosine distance (ϴ)</small>_
 
 For instance, we could measure the Euclidean distance (using the distance formula) between two _points_ A and B; or we could measure the cosine of the angle formed between the two _vectors_ A and B drawn from the origin point. Here, the word "vector" is taking on its [geometric definition](https://www.wikiwand.com/en/Euclidean_vector): a geometric object with a _direction_ connecting an initial point P1 (the origin) to a terminal point P2 (a given term's position in the document-space).
@@ -154,7 +154,7 @@ Queens and kings are semantically different from women and men: they're monarchs
 
 But we can also demonstrate that _V(Queen) = V(King) + V(Woman) - V(Man)_ mathematically rather than semantically by doing the math and drawing the vectors. So, let's pretend for a moment that our model has only two dimensions. Of course, in practice there will be 50-500 dimensions, not 2, so all of this becomes more complicated, but it remains essentially the same process. Here are the (made-up) vectors, then, for the three words, "woman", "man", "king".
 
-<center><img width="500" src="%base_url%/assets/graph11.png" /></center>
+<center><img width="500" src="/assets/graph11.png" /></center>
 _<small>Figure 3: V(Woman), V(Man), and V(King) in 2-dimensional space</small>_
 
 Again, let's break this down one operation at a time. First, let's compute _V(Woman)-V(Man)_. We already know the vector positions for both V(Woman) and V(Man), so we can work this out mathematically by hand:
@@ -166,12 +166,12 @@ Again, let's break this down one operation at a time. First, let's compute _V(Wo
 
 These are therefore the coordinates for a new vector, expressing the direction toward V(Woman) from V(Man). We can label this vector V(Woman-Man) and plot it in the same way:
 
-<center><img width="500" src="%base_url%/assets/graph21.png" /></center>
+<center><img width="500" src="/assets/graph21.png" /></center>
 _<small>Figure 4: V(Woman), V(Man), V(King), and V(Woman-Man)</small>_
 
 We can make sure this is right by re-drawing this same vector, V(Woman-Man), not from the origin point, but from V(Man):
 
-<center><img width="500" src="%base_url%/assets/graph31.png" /></center>
+<center><img width="500" src="/assets/graph31.png" /></center>
 _<small>Figure 5: V(Woman), V(Man), V(King); and V(Woman-Man), plotted from origin and from V(Man)</small>_
 
 Starting at V(Man), to move along the semantic axis of gender, V(Woman-Man)-in the semantic direction toward V(Woman) and away from V(Man)-brings us back to V(Woman). This is tautological: it can be expressed mathematically as the sum of the gender difference V(Woman-Man) and V(Man), which simply reverses the procedure we did previously:
@@ -188,7 +188,7 @@ Starting at V(Man), to move along the semantic axis of gender, V(Woman-Man)-in t
 
 But, non-tautologically, we can do the same thing from the different departure point of V(King). We want to locate the vector pointing to this point:
 
-<center><img width="500" src="%base_url%/assets/graph41.png" /></center>
+<center><img width="500" src="/assets/graph41.png" /></center>
 _<small>Figure 6: V(Woman), V(Man), V(King); and V(Woman-Man), plotted from origin, from V(Man), and from V(King)</small>_
 
 We can find that vector by adding the gender difference of V(Woman-Man) to V(King):
@@ -200,7 +200,7 @@ We can find that vector by adding the gender difference of V(Woman-Man) to V(Kin
 
 Drawing a line to this vector, we discover that the closest nearby vector is indeed, _V(Queen)_!
 
-<center><img width="500" src="%base_url%/assets/graph51.png" /></center>
+<center><img width="500" src="/assets/graph51.png" /></center>
 _<small>Figure 7: V(Woman), V(Man), V(King); V(Woman-Man), plotted from origin, from V(Man), and from V(King); and V(king+woman-man), which is closest to V(Queen)</small>_
 
 Why is this? It's not magic: it's because, as we saw in the "semantic subtraction" section above, the vector of semantic difference (gender) between Woman and Man is the _same_ vector of difference (gender) between Queen and King. This is why to move along V(Woman-Man), from V(King), gets us to V(Queen). Or in other words, _V(Queen) = V(King) + V(Woman) - V(Man)._ Q.E.D.!
@@ -217,14 +217,14 @@ One of the most important parameters in training a word embedding model is the s
 
 It's hard to know exactly how to determine the optimal skip-gram size, but I ran a couple of experiments on models trained on the same corpus (ECCO-TCP) with different sizes. Here's the 25 most similar words to "virtue" for each model:
 
-<center><img width="600" src="%base_url%/assets/rank-comparisons-virtue.jpg" /></center>
+<center><img width="600" src="/assets/rank-comparisons-virtue.jpg" /></center>
 _<small>Figure 8: The 25 most siilar words to "virtue", in word2vec models of ECCO-TCP using skip-grams of 2, 5, 10, 15, 20, and 25 words long.</small>_
 
 The second most similar word to "virtue" in the model trained on skip-grams of only two words long is "beauty" (the dark green line). "Beauty" subsequently declines through the models trained on longer skip-grams. Insofar as two-word skip-grams are picking up on syntactic similarities, this makes sense to me: both "beauty" and "virtue" may govern similar verbs and adjectives. But although virtue was considered beautiful in the period, "beauty" is not exactly what I would think of as the second most semantically similar word to "virtue." What I would expect-words like "vice", "humanity", "wisdom", etc.-appear in the models trained on skip-grams of >2 words.
 
 Another approach to the question of optimal skip-gram size would be to evaluate the "accuracy" of each model according to [a set of analogy tests](https://github.com/arfon/word2vec/blob/master/questions-words.txt) compiled by Google:
 
-<center><img width="600" src="%base_url%/assets/Analogy-test-accuracies-for-models-of-different-skip-gram-sizes.jpg" /></center>
+<center><img width="600" src="/assets/Analogy-test-accuracies-for-models-of-different-skip-gram-sizes.jpg" /></center>
 _<small>Figure 9: Analogy test accuracies for models of different skip-gram sizes, broken down by type of analogy. Questions come from [analogies compiled by Google](https://github.com/arfon/word2vec/blob/master/questions-words.txt). Analogies are only considered if all four words of the analogy are in the most frequent 5,000 words of the corpus. A "baseline" accuracy could be [74.26%](https://www.snip2code.com/Snippet/723553/Computing-the-accuracy-of-a-word2vec-mod), what the total accuracy is for a Google-trained model on Google News (1 billion words) using 300 vectors and (I believe) five-word skip-grams.</small>_
 
 What's striking to me is that, according to these analogy tests, the two-word skip-gram model performs worse on almost every metric-all but the geographic analogies (mostly capital to country), which I expect are not as coherently presented in ECCO-TCP as they are in the Google News corpus on which word2vec was initially trained. The "hump" in the data seems to be skip-grams of ten words long: after that point, the gain in accuracy is minimal.
@@ -235,7 +235,7 @@ To sum up, I personally come away from these experiments thinking that a ten-wor
 
 Another important technical question concerns how large a corpus needs to be to yield an accurate word2vec model. I approached this question similarly, and measured how accurately models of different corpus sizes (all samples from ECCO-TCP) perform on analogy tests.
 
-<center><img width="600" src="%base_url%/assets/Analogy-test-accuracies-for-models-of-different-corpus-sizes-in-words.jpg" /></center>
+<center><img width="600" src="/assets/Analogy-test-accuracies-for-models-of-different-corpus-sizes-in-words.jpg" /></center>
 _<small>Figure 10: Analogy test accuracies for models of different corpus sizes (measured in words), broken down by type of analogy. The differently-sized corpora are derived from differently-sized samples of all 5-word skip-grams in ECCO-TCP. Questions come from [analogies compiled by Google](https://github.com/arfon/word2vec/blob/master/questions-words.txt). Analogies are only considered if all four words of the analogy are in the most frequent 5,000 words of the corpus. A "baseline" accuracy could be [74.26%](https://www.snip2code.com/Snippet/723553/Computing-the-accuracy-of-a-word2vec-mod), what the total accuracy is for a Google-trained model on Google News (1 billion words) using 300 vectors and (I believe) five-word skip-grams.</small>_
 
 I'm not exactly sure how to interpret this, but it seems to me that around 30 million is a "hump" past which accuracy gains are more minimal. That said, the difference between 30 and 70 million words is an absolute difference of 6% accuracy gain, which seems meaningful to me. Given that a "baseline" accuracy (based on a massive Google News corpus) for "All analogies" might be [74%](https://www.snip2code.com/Snippet/723553/Computing-the-accuracy-of-a-word2vec-mod), I imagine that accuracy increases with corpus size more and more gradually toward that limit.
