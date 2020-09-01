@@ -107,7 +107,7 @@ The mathematical concepts within vector space semantics therefore do more than _
 
 As an example of what a historically-situated form of conceptual operation might look like, we could perhaps look back to Reviel Netz's _The Shaping of Deduction in Greek Mathematics: A Study in Cognitive History_ (1999), in which he diagrams the argumentative logic behind different geometric proofs by Euclid, Aristotle, and others:
 
-<center>![A geometric proof by Euclid](%base_url%/assets/euclid2.png) ![A geometric proof by Aristotle](%base_url%/assets/aristotle.png)</center>
+<center>![A geometric proof by Euclid](/assets/euclid2.png) ![A geometric proof by Aristotle](/assets/aristotle.png)</center>
 _<small>Figure 1: Diagrams of the structure of one of Euclid's and Aristotle's proofs. Triangles result from a "therefore" conceptual operation; the disconnected lines, from a "because" operation (203ff.)</small>_
 
 Retrospectively, Netz's diagrams would seem to be one possible response to Peter de Bolla's recent calls for a conceptual turn in literary study, re-motivated by a renewed emphasis on what he calls conceptual _architecture_:
