@@ -1,9 +1,3 @@
----
-layout: post
-title: CV
-date: 2015-12-04
----
-
 # CV
 
 ## Contact
