@@ -59,9 +59,9 @@
 
 ## Press coverage
 
-*   "[The Book Crunchers](https://www.nytimes.com/2017/10/30/arts/moretti-stanford-literary-lab-graphs.html)." New York Times. 2017.
-*   "[The Stanford Literary Lab's Narrative](http://www.publicbooks.org/the-stanford-literary-labs-narrative/)." New York Times. 2017.
-*   "[Why the London of British Literature Barely Changed for 200 Years](http://mentalfloss.com/article/94013/researchers-map-emotions-fictional-london)." Atlas Obscura. 2017.</a>
-<li>"[Researchers Map the Emotions of Fictional London](http://mentalfloss.com/article/94013/researchers-map-emotions-fictional-london)." Mental Floss. 2017.</a>
-<li>"[Stanford Researchers Map the Feelings Associated With Different Parts of London](http://www.smithsonianmag.com/innovation/stanford-researchers-map-feelings-associated-with-different-parts-london-180962753/)." Smithsonian Magazine. 2017.
-*   "[Stanford Literary Lab Maps 'Emotions in Victorian London'](https://www.nytimes.com/2015/04/14/books/stanford-literary-lab-maps-emotions-in-victorian-london.html)." New York Times. 2015.
+* "[The Book Crunchers](https://www.nytimes.com/2017/10/30/arts/moretti-stanford-literary-lab-graphs.html)." New York Times. 2017.
+* "[The Stanford Literary Lab's Narrative](http://www.publicbooks.org/the-stanford-literary-labs-narrative/)." New York Times. 2017.
+* "[Why the London of British Literature Barely Changed for 200 Years](http://mentalfloss.com/article/94013/researchers-map-emotions-fictional-london)." Atlas Obscura. 2017.
+* "[Researchers Map the Emotions of Fictional London](http://mentalfloss.com/article/94013/researchers-map-emotions-fictional-london)." Mental Floss. 2017.
+* "[Stanford Researchers Map the Feelings Associated With Different Parts of London](http://www.smithsonianmag.com/innovation/stanford-researchers-map-feelings-associated-with-different-parts-london-180962753/)." Smithsonian Magazine. 2017.
+* "[Stanford Literary Lab Maps 'Emotions in Victorian London'](https://www.nytimes.com/2015/04/14/books/stanford-literary-lab-maps-emotions-in-victorian-london.html)." New York Times. 2015.
