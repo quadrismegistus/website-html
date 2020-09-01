@@ -1,8 +1,3 @@
----
-layout: post
-title: Word Vectors in the Eighteenth Century, Episode 1: Concepts
-date: 2016-04-13
----
 
 # Word Vectors in the Eighteenth Century, Episode 1: Concepts
 
