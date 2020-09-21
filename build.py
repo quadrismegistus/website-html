@@ -14,7 +14,7 @@ print(folders)
 # exit()
 for root in folders:
     os.chdir(root)
-    os.system('markdown README.md > content.html')
+    os.system('pandoc README.md > content.html')
 
     with open('content.html') as content_f,open('index.html','w') as of:
         content = content_f.read()
