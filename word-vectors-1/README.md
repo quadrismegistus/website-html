@@ -33,35 +33,13 @@ Although these are toy examples, the possibilities for DH (as well as 18C studie
 
 As a brief example of word vectors in action in the 18C, let's think back to the argument made by one of the most outspoken proponents of "original composition" over imitation of the ancients, Edward Young, in _Conjectures on Original Composition: In a Letter to the Author of Sir Charles Grandison_ (1759). Young makes his ingenious argument by interweaving and correlating the _literary_-conceptual opposition between original and imitative composition with several other conceptual oppositions:
 
-<center>
+| *Type of opposition*           | *Associated with original composition* | *Associated with imitative composition* |
+| ------------------------------ | -------------------------------------- | --------------------------------------- |
+| *Attributes of a Poet/Author*  | Genius                                 | Learning                                |
+| *Forms of social organization* | Organic growth                         | Mechanistic commerce                    |
+| *Forms of social value*        | Virtue                                 | Riches                                  |
 
-<table style="margin:0">
-  
-    <tr>
-        <th>_Type of opposition<i>
-        <th><i>Associated with  
-original composition_</th>
-        <th>_Associated with  
-imitative composition_</th>
-    </tr>
-    <tr>
-        <td>_Attributes of a Poet/Author_</td>
-        <td>Genius</td>
-        <td>Learning</td>
-    </tr>
-    <tr>
-        <td>_Forms of social organization_</td>
-        <td>Organic growth</td>
-        <td>Mechanistic commerce</td>
-    </tr>
-    <tr>
-        <td>_Forms of social value_</td>
-        <td>Virtue</td>
-        <td>Riches</td>
-    </tr>
-</table>
-
-</center><span><small>_Table 1. Table of conceptual analogies leveraged by Edward Young to argue for original over imitative composition in _Conjectures on Original Composition (1759).</small></span>
+<small>_Table 1. Table of conceptual analogies leveraged by Edward Young to argue for original over imitative composition in _Conjectures on Original Composition (1759).</small>
 
 For instance, to take the last of these, Young argues that, just as Virtue does not need Riches but that Riches are wanted when there is no Virtue, so Genius does not need Learning but Learning is wanted when there is no Genius. Both Genius and original composition are thereby ethically transvalued through their analogical relationship to the ethics of Virtue. Through analogy, Young also locates a conceptual center to these intersecting oppositions. The individualist, immanent claim to value shared by Virtue, Genius, and original composition becomes visible when analogically contrasted with the more socially-embedded and class-based forms of value shared by wealth ("Riches") and academic study ("Learning"). "With regard to the Moral world, Conscience, with regard to the Intellectual, Genius, is that God within," Young writes, underscoring this concept of ethical immanence arising from and through this network of analogical relationships.
 
