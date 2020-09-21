@@ -91,7 +91,7 @@ As Gavin persuasively argues in "[The Arithmetic of Concepts: a response to Pete
 
 _Stay tuned for the next episode of "Word Vectors in the Eighteenth Century"..._
 
-## -1. Appendix
+### -1. Appendix
 
 The model I'm using was made with [gensim](https://radimrehurek.com/gensim/models/word2vec.html), a Python implementation of [word2vec](https://code.google.com/archive/p/word2vec/)'s neural-network-based algorithms for generating a word embedding model. The model was trained on skip-grams of 5 words from the entire corpus, using 100 dimensions for the neural network. With 4 workers it took a few hours to train.
 
