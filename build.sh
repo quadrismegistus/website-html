@@ -1,2 +1,2 @@
-markdown2 README.md > index.html
+markdown README.md > index.html
 
