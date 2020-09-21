@@ -16,9 +16,11 @@ My first book project, *Abstraction: A Literary History*, traces a slow-moving r
 
 ### *Computational capitalism*
 
-I am also beginning a second book project which examines the role of computation in contemporary culture and labor. Computation -- from its theoretical roots in the 1940s, to its military-academic development in the 1950s and ’60s, to its invasion of industry in the 1970s, personal computing in the ’80s and internetworked computing in the ’90s -- has revolutionized nearly every aspect of modern life. And yet analyses of computation’s cultural role often remain caught between techno-libertarian boosterism and reactionary critique. Imprecisely hailed as a ‘fourth industrial revolution’, computation in fact bears a longer and more complex relation to the contemporary history of capitalism. After all, computation is inseparable from the global economy’s most significant transformations since the 1970s: its so-called ‘deindustrialization’ became possible only through computerized models of global supply chain management, and its financialization only through computerized financial modeling and near-instantaneous network speeds. Although Marxian accounts of these techno-materialist changes exist -- most notably post-operaismo accounts of immaterial (Hardt & Negri, Lazzarato) or cognitive labor (Vercellone, Boutang), as well as more recent ‘post-post-operaismo’ accounts of digital labor (Huws, Fuchs) or cybernetic capitalism (Dyer-Witheford) -- such frameworks never quite escape their frequent criticism: that they over-emphasize the cognitive dimensions of labor and under-appreciate its continued basis in material work, especially the domestic and socially-reproductive work often performed by women. Though abstract, such debates about 'immaterial' and 'material' labor are both important and tangible within the ongoing Covid-19 employment crisis, which has made manifest an existing and growing division within the composition of labor: between those who can and cannot work from home, a distinction which often turns on the role of computation to that labor. This book argues that leftists take more seruously the structural role of computation to labor.
+I am also beginning a second book project which examines the role of computation in contemporary culture and labor. Computation -- from its theoretical roots in the 1940s, to its military-academic development in the 1950s and ’60s, to its invasion of industry in the 1970s, personal computing in the ’80s and internetworked computing in the ’90s -- has revolutionized nearly every aspect of modern life. And yet analyses of computation’s cultural role often remain caught between techno-libertarian boosterism and reactionary critique. Imprecisely hailed as a ‘fourth industrial revolution’, computation in fact bears a longer and more complex relation to the contemporary history of capitalism. After all, computation is inseparable from the global economy’s most significant transformations since the 1970s: its so-called ‘deindustrialization’ became possible only through computerized models of global supply chain management, and its financialization only through computerized financial modeling and near-instantaneous network speeds. Although Marxian accounts of these techno-materialist changes exist -- most notably post-operaismo accounts of immaterial (Hardt & Negri, Lazzarato) or cognitive labor (Vercellone, Boutang), as well as more recent ‘post-post-operaismo’ accounts of digital labor (Huws, Fuchs) or cybernetic capitalism (Dyer-Witheford) -- such frameworks never quite escape their frequent criticism: that they over-emphasize the cognitive dimensions of labor and under-appreciate its continued basis in material work, especially the domestic and socially-reproductive work often performed by women.
 
-* 2020-07-14: ["Computer Virus"](/blog/computer-virus) (section of draft on computation and Covid-19)
+Though abstract, such debates about 'immaterial' and 'material' labor are both important and tangible within the ongoing Covid-19 employment crisis, which has made manifest an existing and growing division within the composition of labor: between those who can and cannot work from home, a distinction which often turns on the role of computation to that labor. This book argues that leftists take more seruously the structural role of computation to labor.
+
+* 2020-07-14: ["Computer Virus"](blog/computer-virus) (section of draft on computation and Covid-19)
 * 2020-05-25: ["The Viral Medium"](https://reenlightening.org/rex8/?p=1056) (submission to Re:Enlightenment conference)
 
 
@@ -52,16 +54,16 @@ I am working with Arto Anttila and Paul Kiparsky, metrical phonologists at Stanf
 ### Word Vectors in the Eighteenth Century
 This page is meant as a set of links and resources related to my work using word vectors to study eighteenth-century literature. This work asks the question: how can new vector-based models of semantics reveal the historicity of specific configurations of meaning in eighteenth-century literature? Most of this work is published serially as blog posts, linked below. The later of these are "slideshow essays"-experiments with the forms of visual rhetoric that work so well in the digital humanities-rather than traditional blog posts. There is also a video of a talk I've given about this work. Lastly, I've uploaded several word2vec models I'm using, trained on a corpus of eighteenth-century literature; and linked to some relevant code (more code will be coming soon).
 
-* 2016-04-14: [Part 1. Concepts](/word-vectors-1)
-* 2016-06-01: [Part 2. Methods](/word-vectors-2)
-* 2016-09-10: [Part 3. From Fields to Vectors](/word-vectors-3)
-* 2016-09-25: [Part 4. Semantic Networks](/word-vectors-4) 
-* [Other resources, appendices, and models](/word-vectors)
+* 2016-04-14: [Part 1. Concepts](word-vectors-1)
+* 2016-06-01: [Part 2. Methods](word-vectors-2)
+* 2016-09-10: [Part 3. From Fields to Vectors](word-vectors-3)
+* 2016-09-25: [Part 4. Semantic Networks](word-vectors-4) 
+* [Other resources, appendices, and models](word-vectors)
 
 
 ### Miscellaneous writing
 
-* 2020-07-14: [Computer Virus](/blog/computer-virus)
+* 2020-07-14: [Computer Virus](blog/computer-virus)
 
 
 ### Graph Blog
