@@ -68,7 +68,7 @@ This page is meant as a set of links and resources related to my work using word
 
 ### Graph Blog
 Occasionally I post graphs and brief summary results to Twitter of my DH work as it proceeds.
-​    
+
   * 2020-03-14: [Tracing types of semantic change](https://twitter.com/quadrismegistus/status/1238796150272122880)
 
   * 2020-03-06: [Measuring anthropomorphism](https://twitter.com/quadrismegistus/status/1235614699145826304)
