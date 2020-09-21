@@ -20,8 +20,8 @@ I am also beginning a second book project which examines the role of computation
 
 Though abstract, such debates about 'immaterial' and 'material' labor are both important and tangible within the ongoing Covid-19 employment crisis, which has made manifest an existing and growing division within the composition of labor: between those who can and cannot work from home, a distinction which often turns on the role of computation to that labor. This book argues that leftists take more seruously the structural role of computation to labor.
 
-* 2020-07-14: ["Computer Virus"](blog/computer-virus) (section of draft on computation and Covid-19)
-* 2020-05-25: ["The Viral Medium"](https://reenlightening.org/rex8/?p=1056) (submission to Re:Enlightenment conference)
+* 2020-07-14: ["Computer Virus"](drafts/computer-virus) (section of draft on computation and Covid-19)
+* 2020-05-25: ["The Viral Medium"](drafts/viral-medium) (submission to Re:Enlightenment conference)
 
 
 
@@ -63,7 +63,7 @@ This page is meant as a set of links and resources related to my work using word
 
 ### Miscellaneous writing
 
-* 2020-07-14: [Computer Virus](blog/computer-virus)
+* 2020-07-14: [Computer Virus](drafts/computer-virus)
 
 
 ### Graph Blog

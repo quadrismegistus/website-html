@@ -56,6 +56,7 @@
 ## Honors and awards
 
 *   [Paul Fortier Prize](https://adho.org/awards/paul-fortier-prize), Alliance of Digital Humanities. 2017.
+*   Alden Dissertation Prize, Stanford English. 2020.
 
 ## Press coverage
 
