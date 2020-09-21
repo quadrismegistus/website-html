@@ -17,7 +17,7 @@ for root in folders:
     os.system('pandoc README.md > content.html')
 
     with open('content.html') as content_f,open('index.html','w') as of:
-        content = content_f.read().replace('\n  * ','</li>\n<li>')
+        content = content_f.read() #.replace('\n  * ','</li>\n<li>')
         content=content.replace('&lt;','<').replace('&gt;','>')
         total = theme.replace('[[CONTENT]]',content)
         of.write(total)
