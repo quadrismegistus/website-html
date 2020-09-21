@@ -11,7 +11,7 @@ I am [Junior Research Fellow in 'Immateriality' at King's College, Cambridge](ht
 
 My first book project, *Abstraction: A Literary History*, traces a slow-moving rise and fall in abstract language across centuries of literary history. Mixing close and distant reading, the book uncovers how these changes in literary semantics mediate changes in social organization. I focus on three literary forms of abstract language: 'abstract style', in the syntactic symmetries and semantic formulae of the periodical essay; 'abstract persons', in the personified abstractions of the mid-century ode; and 'abstract realism', in the "tell, don't show" narration of the early realist novel. Through this history and framework, the book also aims to recuperate abstraction as both a method and an object of literary study.
 
-*   2020-02-18: ["Abstract Realism"](talks/kingscollege2020) (visual summary of the chapter on fiction)
+  * 2020-02-18: ["Abstract Realism"](talks/kingscollege2020) (visual summary of the chapter on fiction)
 
 
 ### *Computational capitalism*
@@ -20,8 +20,9 @@ I am also beginning a second book project which examines the role of computation
 
 Though abstract, such debates about 'immaterial' and 'material' labor are both important and tangible within the ongoing Covid-19 employment crisis, which has made manifest an existing and growing division within the composition of labor: between those who can and cannot work from home, a distinction which often turns on the role of computation to that labor. This book argues that leftists take more seruously the structural role of computation to labor.
 
-* 2020-07-14: ["Computer Virus"](drafts/computer-virus) (section of draft on computation and Covid-19)
-* 2020-05-25: ["The Viral Medium"](drafts/viral-medium) (submission to Re:Enlightenment conference)
+  * 2020-07-14: ["Computer Virus"](drafts/computer-virus) (section of draft on computation and Covid-19)
+  
+  * 2020-05-25: ["The Viral Medium"](drafts/viral-medium) (submission to Re:Enlightenment conference)
 
 
 
@@ -34,7 +35,7 @@ Though abstract, such debates about 'immaterial' and 'material' labor are both i
 ### Cambridge Keydata Project
 I am directing a new collaborative digital humanities project based working at the intersection of computational semantics and conceptual history – the title alluding to Raymond Williams' classic 1976 text, Keywords: A Vocabulary of Culture and Society. Co-directed with Pete de Bolla, Prof. of English there, and bringing together linguists, computer scientists, literary scholars, historians of political thought, and others, to join in a shared project in digital knowledge. Based in Cambridge, the project is also open to virtual collaboration (as, indeed, everything now is) – do get in touch if you have.
 
-* [A demo toolkit for tracking semantic change](http://cambridgekeydata.org/)
+  * [A demo toolkit for tracking semantic change](http://cambridgekeydata.org/)
 
 
 - - -
@@ -42,8 +43,9 @@ I am directing a new collaborative digital humanities project based working at t
 ### Antimetricality
 I am working with Arto Anttila and Paul Kiparsky, metrical phonologists at Stanford, to design tools to evaluate the 'antimetricality' of a text: the degree to which its stress patterns depart from any known metrical pattern. Such measurements of metrical 'tension' or 'ambiguity' have a history: prose most distances itself rhythmically from verse at the height of the eighteenth century. We have a pre-print of a paper available [here](https://web.stanford.edu/~kiparsky/Papers/Antimetricality-Draft-2018-04-20.pdf). 
 
-* 2018-04-20: ["The Rise and Fall of Antimetricality"](https://web.stanford.edu/~kiparsky/Papers/Antimetricality-Draft-2018-04-20.pdf)
-* Code: [Prosodic](http://github.com/quadrismegistus/prosodic) ([web demo](http://prosodic.stanford.edu))
+  * 2018-04-20: ["The Rise and Fall of Antimetricality"](https://web.stanford.edu/~kiparsky/Papers/Antimetricality-Draft-2018-04-20.pdf)
+
+  * Code: [Prosodic](http://github.com/quadrismegistus/prosodic) ([web demo](http://prosodic.stanford.edu))
 
 
 - - -
@@ -54,16 +56,20 @@ I am working with Arto Anttila and Paul Kiparsky, metrical phonologists at Stanf
 ### Word Vectors in the Eighteenth Century
 This page is meant as a set of links and resources related to my work using word vectors to study eighteenth-century literature. This work asks the question: how can new vector-based models of semantics reveal the historicity of specific configurations of meaning in eighteenth-century literature? Most of this work is published serially as blog posts, linked below. The later of these are "slideshow essays"-experiments with the forms of visual rhetoric that work so well in the digital humanities-rather than traditional blog posts. There is also a video of a talk I've given about this work. Lastly, I've uploaded several word2vec models I'm using, trained on a corpus of eighteenth-century literature; and linked to some relevant code (more code will be coming soon).
 
-* 2016-04-14: [Part 1. Concepts](word-vectors-1)
-* 2016-06-01: [Part 2. Methods](word-vectors-2)
-* 2016-09-10: [Part 3. From Fields to Vectors](word-vectors-3)
-* 2016-09-25: [Part 4. Semantic Networks](word-vectors-4) 
-* [Other resources, appendices, and models](word-vectors)
+  * 2016-04-14: [Part 1. Concepts](word-vectors-1)
+
+  * 2016-06-01: [Part 2. Methods](word-vectors-2)
+
+  * 2016-09-10: [Part 3. From Fields to Vectors](word-vectors-3)
+
+  * 2016-09-25: [Part 4. Semantic Networks](word-vectors-4) 
+
+  * [Other resources, appendices, and models](word-vectors)
 
 
 ### Miscellaneous writing
 
-* 2020-07-14: [Computer Virus](drafts/computer-virus)
+  * 2020-07-14: [Computer Virus](drafts/computer-virus)
 
 
 ### Graph Blog
@@ -133,20 +139,23 @@ Occasionally I post graphs and brief summary results to Twitter of my DH work as
 ## Other
 
 ### Tools
-* [Prosodic](https://github.com/quadrismegistus/prosodic): A metrical-phonological parser, written in Python. For English and Finnish, with flexible language support.
-* [Poesy](https://github.com/quadrismegistus/poesy): Tools for poetic analysis (stanzaic, metrical, and rhyme forms), written in Python.
-* [LLP](https://github.com/quadrismegistus/llp): Literary Language Processing (LLP): corpora, models, and tools for the digital humanities, in Python.
-* [Slingshot](https://github.com/quadrismegistus/slingshot): Python wrapper for MPI to "slingshot" a small Python or R function against the Goliath of Big Data.
+
+  * [Prosodic](https://github.com/quadrismegistus/prosodic): A metrical-phonological parser, written in Python. For English and Finnish, with flexible language support.
+
+  * [Poesy](https://github.com/quadrismegistus/poesy): Tools for poetic analysis (stanzaic, metrical, and rhyme forms), written in Python.
+
+  * [LLP](https://github.com/quadrismegistus/llp): Literary Language Processing (LLP): corpora, models, and tools for the digital humanities, in Python.
+
+  * [Slingshot](https://github.com/quadrismegistus/slingshot): Python wrapper for MPI to "slingshot" a small Python or R function against the Goliath of Big Data.
 
 
 
 ### Teaching
 
-
-* [Literary Text Mining](http://github.com/quadrismegistus/literarytextmining)
+  * [Literary Text Mining](http://github.com/quadrismegistus/literarytextmining)
 
 
 
 ### CV
 
-* See [here](cv)
+  * See [here](cv)
