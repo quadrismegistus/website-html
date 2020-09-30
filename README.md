@@ -39,9 +39,6 @@ The ongoing Covid-19 health and employment crisis has only sharpened such seemin
 ### Cambridge Keydata Project
 I am directing a new collaborative digital humanities project based working at the intersection of computational semantics and conceptual history – the title alluding to Raymond Williams' classic 1976 text, Keywords: A Vocabulary of Culture and Society. Co-directed with Pete de Bolla, Prof. of English there, and bringing together linguists, computer scientists, literary scholars, historians of political thought, and others, to join in a shared project in digital knowledge. Based in Cambridge, the project is also open to virtual collaboration (as, indeed, everything now is) – do get in touch if you have.
 
-  * [A demo toolkit for tracking semantic change](http://cambridgekeydata.org/)
-
-
 - - -
 
 ### Antimetricality
