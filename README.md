@@ -18,19 +18,6 @@ My first book project, *Abstraction: A Literary History*, traces a slow-moving r
   * 2020-02-18: ["Abstract Realism"](talks/kingscollege2020) (visual summary of the chapter on fiction)
 
 
-### *Computational capitalism*
-
-I am also beginning a second book project which examines the role of computation to changes since the 1970s in the global composition of labor. Computation – from its theoretical roots in the 1940s, to its military-academic development in the 1950s and ’60s, to its invasion of industry in the 1970s, personal computing in the ’80s and internetworked computing in the ’90s – has revolutionized nearly every aspect of modern life. And yet analyses of computation’s role in culture today often remain caught between techno-libertarian boosterism and reactionary critique. Imprecisely hailed as a ‘fourth industrial revolution’, computation is in fact inseparable from the deindustrialization of the Global North since the 1970s through computerized models of global supply chain management. Although Marxian accounts of these changes in the global composition of labor exist – most notably post-operaismo accounts of immaterial (Hardt & Negri, Lazzarato) or cognitive labor (Vercellone, Boutang), as well as more recent ‘post-post-operaismo’ accounts of digital labor (Huws, Fuchs) or cybernetic capitalism (Dyer-Witheford) – such frameworks never fully escape their frequent criticism: that they over-emphasize the cognitive dimensions of labor while under-appreciating its continued basis in material work, especially the domestic and socially-reproductive work often performed by women. The ongoing Covid-19 health and employment crisis has only sharpened such seemingly abstract debates, as workers are now divided between those who can and cannot work from home, or between those who must materially expose their body to the risk of viral infection and those who, often by dint of the computer, can dislocate themselves from the normal place of production and procure their bodily safety – at the cost of domesticating and parallelizing production in the home. This book argues that such changes in social organization since the 1970s be understood more thoroughly in terms of the structure of computation, as well as its own historical changes as it evolves from the human-designed to the 'machine learning' algorithm.
-
-  * 2020-07-14: ["Computer Virus"](drafts/computer-virus) (section of draft on computation and Covid-19)
-  
-  * 2020-05-25: ["The Viral Medium"](drafts/viral-medium) (submission to Re:Enlightenment conference)
-
-
-
-- - -
-
-
 ## Collaborations
 
 
@@ -70,6 +57,7 @@ This page is meant as a set of links and resources related to my work using word
 
   * 2020-07-14: [Computer Virus](drafts/computer-virus)
 
+  * 2020-05-25: ["The Viral Medium"](drafts/viral-medium) (submission to Re:Enlightenment conference)
 
 ### Graph Blog
 Occasionally I post graphs and brief summary results to Twitter of my DH work as it proceeds.
