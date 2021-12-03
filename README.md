@@ -1,6 +1,6 @@
 # Ryan Heuser
 
-<img src="assets/profile2021-2.png" width="200" height="200" />
+<img src="assets/profile2021-4.png" width="200" height="200" />
 
 * email: [rj416@cam.ac.uk](mailto:rj416@cam.ac.uk) (work) / [ryan@ryanheuser.org](mailto:ryan@ryanheuser.org) (home)
 * mail: King's College, King's Parade, Cambridge, CB2 1ST, UK
