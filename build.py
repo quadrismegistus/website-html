@@ -7,10 +7,10 @@ with open(theme_fn) as theme_f: theme=theme_f.read()
 folders=[]
 for root, dirs, files in os.walk(".", topdown=False):
     if 'README.md' in files:
-        print(root)
+        # print(root)
         folders.append(os.path.abspath(os.path.join(ROOT,root)))
         
-print(folders)
+# print(folders)
 # exit()
 for root in folders:
     os.chdir(root)

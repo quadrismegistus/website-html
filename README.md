@@ -1,13 +1,13 @@
 # Ryan Heuser
 
-<img src="assets/profile2021-4.png" width="200" height="200" />
+<img src="assets/profile2021-4.png" width="200" height="200" style="border:1px solid black" />
 
-* email: [rj416@cam.ac.uk](mailto:rj416@cam.ac.uk) (work) / [ryan@ryanheuser.org](mailto:ryan@ryanheuser.org) (home)
+* email: [rj416@cam.ac.uk](mailto:rj416@cam.ac.uk)
 * mail: King's College, King's Parade, Cambridge, CB2 1ST, UK
 * twitter: @[quadrismegistus](https://twitter.com/quadrismegistus)
 
 ## About me
-I am [Junior Research Fellow in 'Immateriality' at King's College, Cambridge](https://www.kings.cam.ac.uk/research/fellows/ryan-heuser), where I study English literature and the digital humanities. My work brings computational methods of text analysis to the study of literature and its history. I work on changes in literary language across the modern period; on historical semantics; computational poetics; literary geography; and the theory and methods of the digital humanities more broadly. I recently received my PhD in English from Stanford University, where I was a founding member of the Stanford Literary Lab and its Associate Research Director from 2011 to 2015. You can also find me on [Twitter](http://twitter.com/quadrismegistus); [Github](http://github.com/quadrismegistus); [Google Scholar](https://scholar.google.com/citations?user=EEy82P4AAAAJ); [Academia.edu](https://cambridge.academia.edu/RyanHeuser); or by email at [rj416@cam.ac.uk](mailto:rj416@cam.ac.uk).
+I am a [Junior Research Fellow in King's College, Cambridge](https://www.kings.cam.ac.uk/research/fellows/ryan-heuser), where I study English literature and the digital humanities. My work brings computational methods of text analysis to the study of literature and its history. I work on changes in literary language across the modern period; on historical semantics; computational poetics; literary geography; and the theory and methods of the digital humanities more broadly. I recently received my PhD in English from Stanford University, where I was a founding member of the Stanford Literary Lab and its Associate Research Director from 2011 to 2015. You can also find me on [Twitter](http://twitter.com/quadrismegistus); [Github](http://github.com/quadrismegistus); [Google Scholar](https://scholar.google.com/citations?user=EEy82P4AAAAJ); or by email at [rj416@cam.ac.uk](mailto:rj416@cam.ac.uk).
 
 ## Book projects
 
@@ -145,4 +145,4 @@ Occasionally I post graphs and brief summary results to Twitter of my DH work as
 
 ### CV
 
-  * See [here](cv)
+  * See [here](assets/CV-2021-V5.pdf)
