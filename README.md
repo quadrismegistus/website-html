@@ -1,4 +1,4 @@
-# Ryan Heuser
+# Dr. Ryan Heuser
 
 <img src="assets/blueshirtpic-small.jpg" width="200" height="200" style="border:1px solid black" />
 
