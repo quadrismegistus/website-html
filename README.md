@@ -1,13 +1,19 @@
 # Ryan Heuser
 
-<img src="assets/profile2021-4.png" width="200" height="200" style="border:1px solid black" />
+<img src="assets/blueshirtpic-small.jpg" width="200" height="200" style="border:1px solid black" />
 
-* email: [rj416@cam.ac.uk](mailto:rj416@cam.ac.uk)
-* mail: King's College, King's Parade, Cambridge, CB2 1ST, UK
-* twitter: @[quadrismegistus](https://twitter.com/quadrismegistus)
+* email: [ryan.heuser@princeton.edu](mailto:ryan.heuser@princeton.edu)
+* mail: B-9H-9 Firestone Library, Princeton University, Princeton, NJ 08544
+* profiles: [twitter](https://twitter.com/quadrismegistus); [github](https://github.com/quadrismegistus); [google scholar](https://scholar.google.com/citations?user=EEy82P4AAAAJ)
 
 ## About me
-I am a [Junior Research Fellow in King's College, Cambridge](https://www.kings.cam.ac.uk/research/fellows/ryan-heuser), where I study English literature and the digital humanities. My work brings computational methods of text analysis to the study of literature and its history. I work on changes in literary language across the modern period; on historical semantics; computational poetics; literary geography; and the theory and methods of the digital humanities more broadly. I recently received my PhD in English from Stanford University, where I was a founding member of the Stanford Literary Lab and its Associate Research Director from 2011 to 2015. You can also find me on [Twitter](http://twitter.com/quadrismegistus); [Github](http://github.com/quadrismegistus); [Google Scholar](https://scholar.google.com/citations?user=EEy82P4AAAAJ); or by email at [rj416@cam.ac.uk](mailto:rj416@cam.ac.uk).
+As of September 2022, I am Research Software Engineer in Princeton's [Center for Digital Humanities](https://cdh.princeton.edu/) (CDH). As part of that position I collaborate with faculty on longer-term research projects supported by the CDH, as well as advise faculty, graduate and undergraduate students on other research projects involving digital methods.
+
+My research brings computational methods of text analysis to the study of literature and its history. I work on changes in literary language across the modern period; on historical semantics; computational poetics; literary geography; and the theory and methods of the digital humanities more broadly. 
+
+From 2019-2022 I was Junior Research Fellow in in King's College, Cambridge; I received my PhD in English from Stanford University in 2019, where I was a founding member of the Stanford Literary Lab and its Associate Research Director from 2011 to 2015.
+
+You can also find me on [Twitter](http://twitter.com/quadrismegistus); [Github](http://github.com/quadrismegistus); [Google Scholar](https://scholar.google.com/citations?user=EEy82P4AAAAJ); or by email at [rj416@cam.ac.uk](mailto:rj416@cam.ac.uk).
 
 ## Book projects
 
@@ -20,12 +26,6 @@ My first book project, *Abstraction: A Literary History*, traces a slow-moving r
 
 ## Collaborations
 
-
-### Cambridge Keydata Project
-I am directing a new collaborative digital humanities project based working at the intersection of computational semantics and conceptual history – the title alluding to Raymond Williams' classic 1976 text, Keywords: A Vocabulary of Culture and Society. Co-directed with Pete de Bolla, Prof. of English there, and bringing together linguists, computer scientists, literary scholars, historians of political thought, and others, to join in a shared project in digital knowledge. Based in Cambridge, the project is also open to virtual collaboration (as, indeed, everything now is) – do get in touch if you have.
-
-- - -
-
 ### Antimetricality
 I am working with Arto Anttila and Paul Kiparsky, metrical phonologists at Stanford, to design tools to evaluate the 'antimetricality' of a text: the degree to which its stress patterns depart from any known metrical pattern. Such measurements of metrical 'tension' or 'ambiguity' have a history: prose most distances itself rhythmically from verse at the height of the eighteenth century. We have a pre-print of a paper available [here](https://web.stanford.edu/~kiparsky/Papers/Antimetricality-Draft-2018-04-20.pdf). 
 
@@ -34,10 +34,7 @@ I am working with Arto Anttila and Paul Kiparsky, metrical phonologists at Stanf
   * Code: [Prosodic](http://github.com/quadrismegistus/prosodic) ([web demo](http://prosodic.stanford.edu))
 
 
-- - -
-
-
-## Blog
+## Other writing
 
 ### Word Vectors in the Eighteenth Century
 This page is meant as a set of links and resources related to my work using word vectors to study eighteenth-century literature. This work asks the question: how can new vector-based models of semantics reveal the historicity of specific configurations of meaning in eighteenth-century literature? Most of this work is published serially as blog posts, linked below. The later of these are "slideshow essays"-experiments with the forms of visual rhetoric that work so well in the digital humanities-rather than traditional blog posts. There is also a video of a talk I've given about this work. Lastly, I've uploaded several word2vec models I'm using, trained on a corpus of eighteenth-century literature; and linked to some relevant code (more code will be coming soon).
@@ -53,13 +50,13 @@ This page is meant as a set of links and resources related to my work using word
   * [Other resources, appendices, and models](word-vectors)
 
 
-### Miscellaneous writing
+### Miscellaneous
 
   * 2020-07-14: [Computer Virus](drafts/computer-virus)
 
   * 2020-05-25: ["The Viral Medium"](drafts/viral-medium) (submission to Re:Enlightenment conference)
 
-### Graph Blog
+### Graphs
 Occasionally I post graphs and brief summary results to Twitter of my DH work as it proceeds.
 
   * 2020-03-14: [Tracing types of semantic change](https://twitter.com/quadrismegistus/status/1238796150272122880)
@@ -120,10 +117,8 @@ Occasionally I post graphs and brief summary results to Twitter of my DH work as
 
   * 2014-06-09: [Reading at meso-scale with Moby-Dick](https://twitter.com/quadrismegistus/status/476080285113532417)
 
-- - -
 
-
-## Other
+## Other resources
 
 ### Tools
 
@@ -131,7 +126,7 @@ Occasionally I post graphs and brief summary results to Twitter of my DH work as
 
   * [Poesy](https://github.com/quadrismegistus/poesy): Tools for poetic analysis (stanzaic, metrical, and rhyme forms), written in Python.
 
-  * [LLP](https://github.com/quadrismegistus/llp): Literary Language Processing (LLP): corpora, models, and tools for the digital humanities, in Python.
+  * [LLTK](https://github.com/quadrismegistus/lltk): Literary Language Toolkit (LLTK): corpora, models, and tools for the digital humanities, in Python.
 
   * [Slingshot](https://github.com/quadrismegistus/slingshot): Python wrapper for MPI to "slingshot" a small Python or R function against the Goliath of Big Data.
 
@@ -142,7 +137,6 @@ Occasionally I post graphs and brief summary results to Twitter of my DH work as
   * [Literary Text Mining](http://github.com/quadrismegistus/literarytextmining)
 
 
-
 ### CV
 
-  * See [here](assets/CV-2021-V5.pdf)
+  * See [here](assets/CV-Heuser-2022-V5.pdf)
